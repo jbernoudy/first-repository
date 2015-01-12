@@ -6,3 +6,4 @@ This is my first repository to practive Git and GitHub on the command line.
 Adding some more information.
 - Name: Jesse
 - Profession: Software Engineer
+- Activity
