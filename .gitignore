@@ -1,1 +1,3 @@
-Ignore file
+a.output
+build/*
+log/*
